@@ -1,6 +1,6 @@
 # Text Classification using Scikit-Learn (sklearn)
 
-This is a classification of emails received on a mass distribution group based on subject and hand labelled categories (supervised). The solution includes preprocessing (stopwords removal, lemmatization using nltk), features using count vectorizer and tfidf transformer. The solution is a vannila implementation that can be used to extend from here to various text classification problems. 
+This is a classification of emails received on a mass distribution group based on subject and hand labelled categories (supervised). The solution includes preprocessing (stopwords removal, lemmatization using nltk), features using count vectorizer and tfidf transformer. The solution is a vanilla implementation that can be used to extend from here to various text classification problems. 
 
 Things that can be tweaked to improve accuracy...
 * Add more parameter configurations to GridSearchCV
